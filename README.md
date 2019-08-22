@@ -16,8 +16,7 @@ Demo work on Laravel 5.8 framework of PHP. Build Two API's with xml request body
 
 ## Code Details
 
-1. Routing - <b>/routes/api.php</b> . I have developed a two post requests (/api/ping_request and /api/reverse_request).
-<br>
+1. Routing - <b>/routes/api.php</b> . I have developed a two post requests (/api/ping_request and /api/reverse_request).<br>
 2. Controller - <b>/app/Http/Controllers/ApiController</b> - <br>
     a. pingRequest() function - Handle Ping Request <br>
     b. reverseRequest() function - Handle Reverse Request
