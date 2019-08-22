@@ -19,8 +19,7 @@ Demo work on Laravel 5.8 framework of PHP. Build Two API's with xml request body
 1. Routing - <b>/routes/api.php</b> . I have developed a two post requests (/api/ping_request and /api/reverse_request).<br>
 2. Controller - <b>/app/Http/Controllers/ApiController</b> - <br>
     a. pingRequest() function - Handle Ping Request <br>
-    b. reverseRequest() function - Handle Reverse Request
-<br>
+    b. reverseRequest() function - Handle Reverse Request<br>
 3. Testing - <b>/test/Unit/ApiTest.php</b> I have done Unit Testing using built in PHPUnit of laravel. To run it from terminal call <i>./vendor/phpunit/phpunit/phpunit</i> from root folder path.
 <br>
 
